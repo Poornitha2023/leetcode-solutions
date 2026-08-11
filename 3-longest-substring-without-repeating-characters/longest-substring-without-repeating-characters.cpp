@@ -10,7 +10,7 @@ public:
               left++;
        }
                maxi = max(maxi,right-left+1);
-               cout<<maxi;
+               
         }
         return maxi;
     }
